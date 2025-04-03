@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/TEI-P5/1.7/tei-p5-e-codices_1.7.xsd"
-     xml:lang="deu"
-     xml:base="http://www.e-codices.unifr.ch/en/description/csg/0018"
-     xml:id="eCod_csg-0018"
-     version="5.09">
-   <teiHeader>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/hannahbusch/workshop_digitization/refs/heads/main/style.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" source="e-Codices">
+<teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Sammelhandschrift, Sternenuhr des Pacificus von Verona</title>
@@ -89,9 +84,9 @@
                   </listBibl>
                </additional>
                <msPart>
-                  <altIdentifier type="partial">
+                  <msIdentifier n="1">
                      <idno>Teil I</idno>
-                  </altIdentifier>
+                  </msIdentifier>
                   <msContents>
                      <msItem>
                         <locus from="3" to="20">p. 3-20</locus>
@@ -111,9 +106,9 @@
                   </msContents>
                </msPart>
                <msPart>
-                  <altIdentifier type="partial">
+                  <msIdentifier n="2">
                      <idno>Teil II</idno>
-                  </altIdentifier>
+                  </msIdentifier>
                   <msContents>
                      <msItem>
                         <locus from="21" to="40">p. 21-40</locus>
@@ -122,9 +117,9 @@
                   </msContents>
                </msPart>
                <msPart>
-                  <altIdentifier type="partial">
+                  <msIdentifier n="3">
                      <idno>Teil III</idno>
-                  </altIdentifier>
+                  </msIdentifier>
                   <msContents>
                      <msItem>
                         <locus from="41" to="46">p. 41-46</locus>
@@ -133,9 +128,9 @@
                   </msContents>
                </msPart>
                <msPart>
-                  <altIdentifier type="partial">
+                  <msIdentifier n="4">
                      <idno>Teil IV</idno>
-                  </altIdentifier>
+                  </msIdentifier>
                   <msContents>
                      <msItem>
                         <locus from="47" to="194">p. 47-194</locus>
