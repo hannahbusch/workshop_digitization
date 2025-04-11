@@ -15,16 +15,14 @@
             
             <msDesc xml:lang="deu" xml:id="csg-0018">
                <msIdentifier>
-                  <settlement>St. Gallen</settlement>
-                  <repository>Stiftsbibliothek</repository>
+                  <settlement>Place</settlement> <repository>Stiftsbibliothek</repository>
                   <idno>Cod. Sang. 18</idno>
                   <altIdentifier type="catalog">
                      <idno>144</idno>
                   </altIdentifier>
                </msIdentifier>
                <head>
-                  <title>Sammelhandschrift, Sternenuhr des Pacificus von Verona</title>
-                  <origPlace>St. Gallen</origPlace>
+                  <title>Title of the manuscrupt</title> <origPlace>St. Gallen</origPlace>
                   <origDate notBefore="0985" notAfter="1015">um 1000</origDate>
                </head>
                <physDesc>
