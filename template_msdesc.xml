@@ -16,9 +16,9 @@
             <msDesc xml:lang="deu" xml:id="csg-0018">
                <msIdentifier>
                   <settlement>Place</settlement> <repository>institution keeping the manuscript</repository>
-                  <idno>Cod. Sang. 18</idno>
+                  <idno>Signature</idno>
                   <altIdentifier type="catalog">
-                     <idno>144</idno>
+                     <idno>alternativ identifier, if applicable</idno>
                   </altIdentifier>
                </msIdentifier>
                <head>
@@ -30,7 +30,7 @@
                      <supportDesc material="perg">
                         <extent>
                            <measure type="pagesCount">extent</measure>
-                           <measure type="pageDimensions">24,5 x 17,5 cm</measure>
+                           <measure type="pageDimensions">dimensions of the code</measure>
                         </extent>
                      </supportDesc>
                   </objectDesc>
