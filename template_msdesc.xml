@@ -29,127 +29,45 @@
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <extent>
-                           <measure type="pagesCount" n="194">extent</measure>
-                           <measure type="pageDimensions" n="24.5 x 17.5 cm">24,5 x 17,5 cm</measure>
+                           <measure type="pagesCount">extent</measure>
+                           <measure type="pageDimensions">24,5 x 17,5 cm</measure>
                         </extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Schriften verschieden.</handNote>
+                     <handNote>script type</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote><locus from="43">p. 43</locus> Federzeichnung in Purpur, Minium u. Grün, <locus from="147">p. 147</locus> in dunkelbrauner Tinte.
+                     <decoNote>Federzeichnung in Purpur, Minium u. Grün, <locus>p. 147</locus> in dunkelbrauner Tinte.
                      </decoNote>
                   </decoDesc>
                </physDesc>
                <history>
                   <origin>
-                     <p>Die stilistische Einordnung der Zeichnung des sog. Horologium nocturnum auf <locus from="43">p. 43</locus>, mit dem die Mönche die Nachtstunden des Stundengebets berechnen konnten, führt über die Technik des Kontrastes von Purpur zu Minium sowie den Einsatz von Grün zu den Zeichnungen <persName>Hartkers</persName> in <ref type="mss" cRef="csg-0390">Sang. 390</ref>-<ref type="mss" cRef="csg-0391">391</ref> (Nr. 143), deren Qualität sie ebenbürtig ist. Leider wurde das Zentrum des Kreises herausgeschnitten. Vielleicht war darin ein Ausschnitt des Himmelsglobus mit seinem Nordpol u. einigen nördlichen Sternbildern wie den Bärinnen u. der Schlange zu sehen. Wiesenbach konnte nachweisen, dass die Mönche mit einem solchen Sehrohr den Nordpol des Himmels anvisierten, als dessen nächster Stern der Polstern 32 Camelopardalis Hevelii leuchtete. Dieser Polstern (α Ursae minoris), bewegte sich scheinbar um den Polarstern als seinem Mittelpunkt und zeigte so den Beobachtern als Polaris computatrix, als Stern zur Berechnung, die Nachtstunden nach dem Niedergang der Sonne an. Die Bewegung von Polaris um den Mittelpunkt konnte man mit einer auf das Sehrohr aufgesteckten, durchlöcherten Kreisscheibe messen. In diesen Löchern war mit dem rechten Auge der Stundenlauf von Polaris wie der Lauf eines Urzeigers zu verfolgen.</p>
-                     <p>Den kniend betenden Christus auf <locus from="147">p. 147</locus> vergleicht Merton (S. 68) mit den Illustrationen im Prudentius <ref type="mss" cRef="csg-0135">Sang. 135</ref> (Nr. 167).</p>
+                     <p>description text </p>
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>
-                           <bibl><persName>Euw Anton von</persName>, Die St. Galler Buchkunst vom 8. bis zum Ende des 11. Jahrhunderts, Band I: Textband, St. Gallen <date>2008</date> (Monasterium Sancti Galli, Bd. 3), S. 502-503, Nr. 144.</bibl>
+                           <bibl>who wrote the description, bibliographic source</bibl>
                         </source>
                      </recordHist>
                   </adminInfo>
-                  <listBibl>
-                     <bibl>
-                        <note>
-                           <ref type="crossRef" target="http://www.stibi.ch/handschriften/hss/0018.htm"><hi rend="small-caps">Scherrer</hi></ref>
-                        </note>, S. 6f.</bibl>
-                     <bibl>
-                        <abbr><hi rend="small-caps">Merton</hi></abbr>, S. 63, 68</bibl>
-                     <bibl>
-                        <abbr><hi rend="small-caps">Bruckner</hi> III</abbr>, S. 57, Lit</bibl>
-                     <bibl>
-                        <abbr><hi rend="small-caps">Rankin</hi></abbr>, Telling Stories, S. 386-389</bibl>
-                     <bibl>Joachim <hi rend="small-caps">Wiesenbach</hi>, Pacificus von Verona als Erfinder einer Sternenuhr, in: Science in Western and Eastern Civilization in Carolingian Times, hrsg. von Paul L. <hi rend="small-caps">Butzer</hi> und Dietrich <hi rend="small-caps">Lohrmann</hi>, Basel 1993, S. 229-250, bes. 247f.</bibl>
-                     <bibl>Joachim <hi rend="small-caps">Wiesenbach</hi>, Der Mönch mit dem Sehrohr. Die Bedeutung der Miniatur Codex Sangallensis 18, p. 45, in: Schweizerische Zeitschrift für Geschichte 44, 1994, S. 367-388</bibl>
-                     <bibl>
-                        <abbr><hi rend="small-caps">Schmuki</hi></abbr>, in: Cimelia Sangallensia, Nr. 55</bibl>
-                     <bibl>
-                        <abbr><hi rend="small-caps">Berschin</hi></abbr>, Griechisches in der Klosterschule des alten St. Gallen, in: <abbr>Berschin</abbr>, Mittellateinische Studien, Heidelberg 2005, S. 185.</bibl>
-                  </listBibl>
                </additional>
                <msPart>
                   <msIdentifier n="1">
                      <idno>Teil I</idno>
                   </msIdentifier>
                   <msContents>
-                     <msItem>
-                        <locus from="3" to="20">p. 3-20</locus>
-                        <msItem>
-                           <locus from="3" to="4">p. 3-4</locus>
-                           <note>ursprünglich leer</note>
-                        </msItem>
-                        <msItem>
-                           <locus from="4">p. 4</locus>
-                           <note>großes u. kleines griechisches Alphabeth</note>
-                        </msItem>
-                        <msItem>
-                           <locus from="5" to="20">p. 5-20</locus>
-                           <note>Cantica des Commune sanctorum mit Initialen in Minium (<placeName>St. Gallen</placeName>, <date>Mitte d. 12. Jh.</date>)</note>
-                        </msItem>
+                     <msItem>description of the different parts of the manuscript and its contents
+                       
+                       
                      </msItem>
                   </msContents>
                </msPart>
-               <msPart>
-                  <msIdentifier n="2">
-                     <idno>Teil II</idno>
-                  </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from="21" to="40">p. 21-40</locus>
-                        <note>Libellus mit Antiphonen u. Psalmen für die Prozessionen, <term>neumiert</term>, ohne Initialen (<placeName>St. Gallen</placeName>, wohl <date>Mitte d.10. Jh.</date>, vgl. <hi rend="small-caps">Rankin</hi>, S. 386-389)</note>
-                     </msItem>
-                  </msContents>
-               </msPart>
-               <msPart>
-                  <msIdentifier n="3">
-                     <idno>Teil III</idno>
-                  </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from="41" to="46">p. 41-46</locus>
-                        <note>(= 1 Bifol. <locus from="41" to="44">p. 41-44</locus> u. Einzelbl. <locus from="45" to="46">p. 45-46</locus>) reskribierte Blätter ehemals wohl mit astronomischem Text u. Originalzeichnung einer astronomischen Sternenuhr, vielleicht nach dem Text des <persName>Pacificus von Verona</persName> († <date>844</date>) auf <locus from="43">p. 43</locus>, dort u. auf den anderen Seiten liturgische Texte (<date>15. Jh.</date>). Die Sternenuhr besteht aus einer mit Treppenmuster u. Kreisen geschmückten Säule mit Basis u. abgeschrägtem Akanthusblattkapitell. Darauf gelegt ist ein langes, zum Himmel gerichtetes Sehrohr, dessen Kanal grün laviert ist. Das obere Ende des Rohres überschneidet einen Ring, der mit 6 Strichen in Minium u. 6 Strichen in Purpur in 12 Segmente geteilt ist. Am unteren Ende des Rohres steht auf einem Podest ein Mönch, in Tunika u. anianische Kukulle gekleidet, tonsuriert. Er schaut mit dem linken Auge durch das Rohr u. richtet es genau auf den Kreismittelpunkt der Kreisfläche, die herausgeschnitten ist. Sein rechtes Auge ist geöffnet u. parallel zum Rohr auf die Scheibe gerichtet. Über ihm stehen in zwei Spalten die Orationen eines Messtextes sowie rechts Ergänzungen, daneben in drei Spalten der Anfang einer Litanei</note>
-                     </msItem>
-                  </msContents>
-               </msPart>
-               <msPart>
-                  <msIdentifier n="4">
-                     <idno>Teil IV</idno>
-                  </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from="47" to="194">p. 47-194</locus>
-                        <note>Psalterium glossatum mit Kommentar u. Initialen in Minium (<placeName>St. Gallen</placeName>, <date>spätes 10. Jh.</date>)</note>
-                        <msItem>
-                           <locus from="48">p. 48</locus>
-                           <note>Ps I B(eatus vir)</note>
-                        </msItem>
-                        <msItem>
-                           <locus from="95">p. 95</locus>
-                           <note>Ps 51 Q(uid gloriaris)</note>
-                        </msItem>
-                        <msItem>
-                           <locus from="143" to="146">p. 143-146</locus>
-                           <note>reskribiertes Doppelblatt aus einem «Evangeliarum graeco-latinum» (vgl. <ref type="altMs">Zürich C 57</ref> (Nr. 95), fol. 5r/v, 74r/v, 93v und 135r/v, <bibl><hi rend="small-caps">Berschin</hi>, S. 185</bibl>
-                           </note>
-                        </msItem>
-                        <msItem>
-                           <locus from="147">p. 147</locus>
-                           <note>Praefatio in psalmum centesimum I. Ecce unus pauper orat - dunkelbraune Federzeichnung mit kniendem Christus.</note>
-                        </msItem>
-                        <msItem>
-                           <note>p. 195-212 fehlen (nach Paginierung um <date>1780</date> entfernt).</note>
-                        </msItem>
-                     </msItem>
-                  </msContents>
-               </msPart>
+               
             </msDesc>
          </sourceDesc>
       </fileDesc>
