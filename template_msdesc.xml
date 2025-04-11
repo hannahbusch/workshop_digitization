@@ -22,16 +22,14 @@
                   </altIdentifier>
                </msIdentifier>
                <head>
-                  <title>Title of the manuscrupt</title> <origPlace>St. Gallen</origPlace>
-                  <origDate notBefore="0985" notAfter="1015">um 1000</origDate>
+                  <title>Title of the manuscrupt</title> <origPlace>place of origin</origPlace>
+                  <origDate notBefore="0985" notAfter="1015">date of origin</origDate>
                </head>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <extent>
-                           <measure type="pagesCount" n="194">194 pp.</measure>
-                           <measure type="pageDimensions" n="24 x 20 cm">
-                              <locus from="41" to="46">p. 41-46</locus>: 24 x 20 cm</measure>
+                           <measure type="pagesCount" n="194">extent</measure> <measure type="pageDimensions" n="24 x 20 cm"><locus from="41" to="46">p. 41-46</locus>: 24 x 20 cm</measure>
                            <measure type="pageDimensions" n="24.5 x 17.5 cm">24,5 x 17,5 cm</measure>
                         </extent>
                      </supportDesc>
