@@ -56,12 +56,7 @@
                   <msIdentifier n="1">
                      <idno>Teil I</idno>
                   </msIdentifier>
-                  <msContents>
-                     <msItem>description of the different parts of the manuscript and its contents
-                       
-                       
-                     </msItem>
-                  </msContents>
+                  <msContents><summary/></msContents>
                </msPart>
                
             </msDesc>
