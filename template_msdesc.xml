@@ -56,7 +56,7 @@
                   <msIdentifier n="1">
                      <idno>Teil I</idno>
                   </msIdentifier>
-                  <msContents><summary/></msContents>
+                  <msContents><summary>descriprion/summary of the contents</summary></msContents>
                </msPart>
                
             </msDesc>
