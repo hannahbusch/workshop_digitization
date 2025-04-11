@@ -3,12 +3,8 @@
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/hannahbusch/workshop_digitization/refs/heads/main/style.css"?>
 <TEI source="e-Codices" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Sammelhandschrift, Sternenuhr des Pacificus von Verona</title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>e-codices - Virtual Manuscript Library of Switzerland</publisher>
+      <fileDesc><titleStmt><title>TITLE</title></titleStmt><publicationStmt>
+            <publisher>Repository</publisher>
             <availability status="restricted" n="cc-by">
                <licence target="http://creativecommons.org/licenses/by/3.0/">
                   <p>Creative <persName key="Wikimedia Commons" ref="http://www.wikidata.org/entity/Q565">Commons</persName> Attribution 3.0 Unported (CC BY 3.0)</p>
